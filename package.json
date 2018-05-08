@@ -1,0 +1,19 @@
+{
+  "name": "mina-music_player",
+  "version": "0.0.1",
+  "description": "A demo of music player using wx-mina",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueSky1997AL/mina-music_player.git"
+  },
+  "author": "Jser@Allen Lawrence",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlueSky1997AL/mina-music_player/issues"
+  },
+  "homepage": "https://github.com/BlueSky1997AL/mina-music_player#readme"
+}
